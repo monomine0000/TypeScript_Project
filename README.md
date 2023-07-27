@@ -20,3 +20,5 @@
 	* required *foreman*.
 * exec `npm start`
 	* launch server
+
+ * exec `npm stop`
